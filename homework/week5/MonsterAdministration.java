@@ -209,5 +209,7 @@ public class MonsterAdministration {
 
     // Izhod
     public static void izhod(){
+        System.out.println("Exiting...\nHave a horribly nice day >:D!");
+        break;
     }
 }
